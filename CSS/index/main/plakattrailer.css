@@ -1,0 +1,23 @@
+.plakat_trailer{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    float: left;
+
+    margin-left: 20%;
+    margin-right: 2%;
+    margin-top: 0.5%;
+}
+.plakat{
+    border-radius: 20px 20px 0px 0px;
+
+    height: 550px;
+    width: 350px;
+}
+.trailer{
+    width: 350px;
+    height: 300px;
+
+    margin-top: 1%;
+    border-radius: 0px 0px 20px 20px;
+}

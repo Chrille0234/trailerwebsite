@@ -1,0 +1,48 @@
+.tekst{
+    /* sørger for teksten sidder det rigtige sted, med den rigtige bredde */
+    position: relative;
+    flex-direction: row;
+    width: 700px;
+    margin-top: 2%;
+    margin-left: 43%;
+    margin-right: 5%;
+    
+    color: white;
+    font-size: 1.2em;
+
+}
+.boks{
+    /* sørger for teksten sidder det rigtige sted, med den rigtige bredde */
+    position: relative;
+    flex-direction: row;
+    width: 700px;
+    margin-top: 2%;
+    margin-left: 43%;
+    margin-right: 5%;
+    
+    color: white;
+    font-size: 1.2em;
+
+    background-color: rgba(0, 0, 0, 0.37);
+    border-radius: 1.6em;
+    border: solid 2px black;
+    text-align: center;
+
+}
+li{
+    list-style-type: none;
+    margin-top: 20px;
+
+}
+
+#overskrift_tekst_boks{
+    background-color: rgba(0, 0, 0, 0.37);
+    border-radius: 1.6em;
+    border: solid 2px black;
+}
+
+body{
+    background-size: cover;
+    background-image: url("poster.jpg");
+    background-repeat: no-repeat;
+}
